@@ -1,5 +1,5 @@
 # Self-Learning-Robot
-Reinforcement Training of Robot
+Training a line follower robot by Reinforcement learning algorithm
 
 
 Reinforcement learning is an important type of Machine Learning where an agent learn how to behave in a environment by performing actions and seeing the results.
